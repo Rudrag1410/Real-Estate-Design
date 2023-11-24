@@ -1,5 +1,5 @@
 ## Real Estate Design :
-This project is a Real Estate Design application built with ReactJS and styled using Tailwind CSS.
+This project is a Real Estate Design application built with ViteJs and styled using Tailwind CSS.
 
 ## Table of Contents
 -- Getting Started
@@ -39,7 +39,7 @@ Copy code
 To start the development server and view the project in your browser, run:
 
 Copy code
--- npm start
+-- npm run dev
 
 Open http://localhost:3000 to view it in the browser.
 
